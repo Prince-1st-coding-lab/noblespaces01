@@ -1,0 +1,12 @@
+{
+  "rootDirectory": ".",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "buildCommand": "pnpm --filter @workspace/global-connect-hub run build",
+  "outputDirectory": "artifacts/global-connect-hub/dist/public",
+  "rewrites": [
+    {
+      "source": "/((?!assets/|favicon\\.png|favicon\\.svg|robots\\.txt|sitemap\\.xml|.*\\.).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

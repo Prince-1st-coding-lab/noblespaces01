@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Noble Spaces"
+description = "A multilingual property and home services booking platform for discovering spaces, scheduling services, and managing bookings."
+version = "1.0.0"
+id = "artifacts/global-connect-hub"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 26023
+
+[services.development]
+run = "pnpm --filter @workspace/global-connect-hub run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/global-connect-hub", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/global-connect-hub/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "26023"
+BASE_PATH = "/"

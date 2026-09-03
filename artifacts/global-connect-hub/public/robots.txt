@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /zohoverify/
+Disallow: /googlee7f47105b9b8aaab.html
+Disallow: /admin
+Disallow: /admin/
+Disallow: /.env
+Disallow: /api/
+
+Sitemap: https://noblespaces.rw/sitemap.xml

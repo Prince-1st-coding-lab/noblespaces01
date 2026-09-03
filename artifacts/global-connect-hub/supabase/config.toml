@@ -1,0 +1,19 @@
+project_id = "qzfnzphbllhyyiyygaiy"
+
+[functions.xentripay-initiate]
+verify_jwt = false
+
+[functions.xentripay-status]
+verify_jwt = false
+
+[functions.initiate-paypack-checkout]
+verify_jwt = false
+
+[functions.paypack-webhook]
+verify_jwt = false
+
+[functions.paypack-webhook-v2]
+verify_jwt = false
+
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://noblespaces.rw/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noblespaces.rw/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://noblespaces.rw/" />
+    <xhtml:link rel="alternate" hreflang="rw" href="https://noblespaces.rw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noblespaces.rw/" />
+    <image:image>
+      <image:loc>https://noblespaces.rw/og-image.jpg</image:loc>
+      <image:title>Noble Spaces — Interior Design in Kigali, Rwanda</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noblespaces.rw/services</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://noblespaces.rw/about</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://noblespaces.rw/gallery</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noblespaces.rw/contact</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url><loc>https://noblespaces.rw/services/wardrobes-manufacturing</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://noblespaces.rw/services/modern-kitchen-installations</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://noblespaces.rw/services/sofa-manufacturing</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://noblespaces.rw/services/ceiling-installation</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://noblespaces.rw/services/painting-works</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://noblespaces.rw/services/curtains-supply-installation</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://noblespaces.rw/services/carpet-supply-installation</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://noblespaces.rw/services/media-tv-wall-installation</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://noblespaces.rw/services/soundproof-installation</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://noblespaces.rw/services/wall-partitioning</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://noblespaces.rw/services/dining-tables-manufacturing</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://noblespaces.rw/services/console-installation</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://noblespaces.rw/services/office-equipment-supply</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://noblespaces.rw/services/baby-beds-manufacturing</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://noblespaces.rw/services/pet-houses-manufacturing</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://noblespaces.rw/services/fabric-replacement</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://noblespaces.rw/services/sofa-cleaning</loc><lastmod>2026-04-26</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://noblespaces.rw/services/carpet-cleaning</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://noblespaces.rw/services/interior-door-manufacturing</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://noblespaces.rw/services/exterior-door-manufacturing</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+</urlset>

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Noble Spaces</title>
+    <meta name="robots" content="noindex" />
+    <script>
+      // SPA deep-link fallback: preserve the requested path + query + hash,
+      // then hand control back to index.html so React Router can render it.
+      (function () {
+        var l = window.location;
+        var redirect = l.pathname + l.search + l.hash;
+        sessionStorage.setItem("spa-redirect", redirect);
+        l.replace("/");
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
